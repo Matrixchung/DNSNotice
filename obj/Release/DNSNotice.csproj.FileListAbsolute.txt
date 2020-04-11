@@ -1,0 +1,12 @@
+C:\Users\MaTr1X\Desktop\Minecraft\开发文件夹\Visual C#\DNSNotice\DNSNotice\bin\Release\DNSNotice.exe.config
+C:\Users\MaTr1X\Desktop\Minecraft\开发文件夹\Visual C#\DNSNotice\DNSNotice\bin\Release\DNSNotice.exe
+C:\Users\MaTr1X\Desktop\Minecraft\开发文件夹\Visual C#\DNSNotice\DNSNotice\bin\Release\DNSNotice.pdb
+C:\Users\MaTr1X\Desktop\Minecraft\开发文件夹\Visual C#\DNSNotice\DNSNotice\bin\Release\aliyun-net-sdk-alidns.dll
+C:\Users\MaTr1X\Desktop\Minecraft\开发文件夹\Visual C#\DNSNotice\DNSNotice\bin\Release\aliyun-net-sdk-core.dll
+C:\Users\MaTr1X\Desktop\Minecraft\开发文件夹\Visual C#\DNSNotice\DNSNotice\bin\Release\Fleck.dll
+C:\Users\MaTr1X\Desktop\Minecraft\开发文件夹\Visual C#\DNSNotice\DNSNotice\bin\Release\Newtonsoft.Json.dll
+C:\Users\MaTr1X\Desktop\Minecraft\开发文件夹\Visual C#\DNSNotice\DNSNotice\bin\Release\Newtonsoft.Json.xml
+C:\Users\MaTr1X\Desktop\Minecraft\开发文件夹\Visual C#\DNSNotice\DNSNotice\obj\Release\DNSNotice.csproj.CoreCompileInputs.cache
+C:\Users\MaTr1X\Desktop\Minecraft\开发文件夹\Visual C#\DNSNotice\DNSNotice\obj\Release\DNSNotice.csproj.CopyComplete
+C:\Users\MaTr1X\Desktop\Minecraft\开发文件夹\Visual C#\DNSNotice\DNSNotice\obj\Release\DNSNotice.exe
+C:\Users\MaTr1X\Desktop\Minecraft\开发文件夹\Visual C#\DNSNotice\DNSNotice\obj\Release\DNSNotice.pdb

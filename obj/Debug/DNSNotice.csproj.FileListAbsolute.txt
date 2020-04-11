@@ -1,0 +1,13 @@
+C:\Users\MaTr1X\Desktop\Minecraft\开发文件夹\Visual C#\DNSNotice\DNSNotice\bin\Debug\DNSNotice.exe.config
+C:\Users\MaTr1X\Desktop\Minecraft\开发文件夹\Visual C#\DNSNotice\DNSNotice\bin\Debug\DNSNotice.exe
+C:\Users\MaTr1X\Desktop\Minecraft\开发文件夹\Visual C#\DNSNotice\DNSNotice\bin\Debug\DNSNotice.pdb
+C:\Users\MaTr1X\Desktop\Minecraft\开发文件夹\Visual C#\DNSNotice\DNSNotice\bin\Debug\aliyun-net-sdk-alidns.dll
+C:\Users\MaTr1X\Desktop\Minecraft\开发文件夹\Visual C#\DNSNotice\DNSNotice\bin\Debug\aliyun-net-sdk-core.dll
+C:\Users\MaTr1X\Desktop\Minecraft\开发文件夹\Visual C#\DNSNotice\DNSNotice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MaTr1X\Desktop\Minecraft\开发文件夹\Visual C#\DNSNotice\DNSNotice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MaTr1X\Desktop\Minecraft\开发文件夹\Visual C#\DNSNotice\DNSNotice\obj\Debug\DNSNotice.csprojAssemblyReference.cache
+C:\Users\MaTr1X\Desktop\Minecraft\开发文件夹\Visual C#\DNSNotice\DNSNotice\obj\Debug\DNSNotice.csproj.CoreCompileInputs.cache
+C:\Users\MaTr1X\Desktop\Minecraft\开发文件夹\Visual C#\DNSNotice\DNSNotice\obj\Debug\DNSNotice.csproj.CopyComplete
+C:\Users\MaTr1X\Desktop\Minecraft\开发文件夹\Visual C#\DNSNotice\DNSNotice\obj\Debug\DNSNotice.exe
+C:\Users\MaTr1X\Desktop\Minecraft\开发文件夹\Visual C#\DNSNotice\DNSNotice\obj\Debug\DNSNotice.pdb
+C:\Users\MaTr1X\Desktop\Minecraft\开发文件夹\Visual C#\DNSNotice\DNSNotice\bin\Debug\websocket-sharp-customheaders.dll
